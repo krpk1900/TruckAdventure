@@ -1,1 +1,2 @@
-# TruckAdventure
+# 概要
+一時開発停止中です。
